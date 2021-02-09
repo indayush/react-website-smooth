@@ -48,7 +48,7 @@ export const ServicesCard = styled.div`
 	transition: all 0.2s ease-in-out;
 
 	&:hover {
-		transform: scale(1.02);
+		transform: scale(1.05);
 		transition: all 0.2s ease-in-out;
 		cursor: pointer;
 	}
@@ -79,5 +79,5 @@ export const ServicesH2 = styled.h2`
 export const ServicesP = styled.div`
 	font-size: 1rem;
 	text-align: center;
-	margin-bottom: 8px;
+	margin: 8px;
 `;
